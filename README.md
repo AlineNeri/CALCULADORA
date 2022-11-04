@@ -1,7 +1,6 @@
 # Calculadora
-foi crianda com .
-.HTML
-.CSS
-.JavaScript
-
+Foi criada com.
+HTML
+CSS
+JAVASCRIPT
 
